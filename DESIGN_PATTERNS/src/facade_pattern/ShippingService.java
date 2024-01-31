@@ -1,0 +1,8 @@
+package facade_pattern;
+
+
+public class ShippingService {
+    public static void shipProduct(Product product) {
+        /*Connect with external shipment service to ship product*/
+    }
+}
